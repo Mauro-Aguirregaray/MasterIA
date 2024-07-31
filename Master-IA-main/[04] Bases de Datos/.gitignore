@@ -1,0 +1,7 @@
+*/*.pptx
+*/MiClase*
+res/*
+*/*/creds*
+*/*/scratch*
+*/*/*.docx
+*/*.ignore
